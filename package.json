@@ -1,0 +1,24 @@
+{
+    "name": "thisaislan.auto-field-injector-editor",
+    "version": "0.1.0",
+    "unity": "6000.2",
+    "displayName": "Auto Field Injector Editor",
+    "description": "How many times have you thought - Wouldn't it be amazing if I could just drag this into the Inspector and the code writes itself? - Well, now you can. Drop here.",
+    "documentationUrl": "https://github.com/thisaislan/auto-field-injector-editor",
+    "changelogUrl": "https://github.com/thisaislan/auto-field-injector-editor/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/thisaislan/auto-field-injector-editor/blob/main/LICENSE.md",
+    "keywords": [
+        "Inspector Extension",
+        "Auto Field Injection",
+        "Code Generation",
+        "MonoBehaviour Fields",
+        "Tools"
+    ],
+    "category": "Tools",
+    "dependencies": {
+    },
+    "author": {
+        "name": "thisaislan",
+        "url": "https://github.com/thisaislan"
+    }
+}
